@@ -1,0 +1,14 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+h1{
+color: black;
+background-color: rgb(200, 178, 178);
+box-shadow: 10px 10px 8px 10px #888888;
+text-align: center;
+}
+#Saylani_img{
+margin-top: 20px;
+width: 100vw;
+}
